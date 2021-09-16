@@ -4,8 +4,14 @@ Just a place for me to store WIP code while following along on threejs-journey.x
 
 ## Getting Started
 
-Use parcel to build and run each folder.
+Install dependencies:
 
 ```
-parcel 03-basic-scene/index.html
+yarn install
+```
+
+Then use parcel to build and run each lesson, see the example below:
+
+```
+yarn start 03-basic-scene/index.html
 ```
