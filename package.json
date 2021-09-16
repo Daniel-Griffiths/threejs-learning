@@ -1,0 +1,22 @@
+{
+  "name": "threejs-learning",
+  "version": "1.0.0",
+  "description": "Just a place for me to store WIP code while following along on threejs-journey.xyz",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Griffiths/threejs-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Griffiths/threejs-learning/issues"
+  },
+  "homepage": "https://github.com/Daniel-Griffiths/threejs-learning#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "three": "^0.132.2"
+  }
+}
