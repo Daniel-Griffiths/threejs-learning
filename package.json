@@ -22,6 +22,7 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
+    "gsap": "^3.7.1",
     "kill-port": "^1.6.1",
     "style.css": "^1.0.0",
     "three": "^0.132.2"
